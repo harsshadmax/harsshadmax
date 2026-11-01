@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#8b949e"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30363d"/></pattern>
+  </defs>
+  <style>.t{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif}</style>
+  <rect x="1" y="1" width="998" height="88" rx="13" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="88" rx="13" fill="url(#dots)"/>
+  <rect x="300" y="74" width="400" height="3" rx="1.5" fill="url(#ln)"/>
+  <text class="t" x="500" y="48" text-anchor="middle" font-size="18" fill="#c9d1d9">Thanks for stopping by. Open an issue or say hi.</text>
+</svg>
