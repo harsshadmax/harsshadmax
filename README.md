@@ -39,7 +39,7 @@ My goal is simple: build AI that automates real work, and can explain every outp
 
 <p align="center">
   <a href="https://github.com/harsshadmax"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="52"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/harsshad-p-2150"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="52"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/harsshad-p-215000370"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="52"></a>&nbsp;
   <a href="mailto:harsshadpa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="52"></a>&nbsp;
   <a href="https://harsshadpaportfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" height="52"></a>
 </p>
